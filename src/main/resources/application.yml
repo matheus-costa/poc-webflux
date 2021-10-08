@@ -1,0 +1,9 @@
+spring:
+  data:
+
+resource:
+  qrcode:
+    path: qrcode
+  examples:
+    blocking: blocking
+    unblocking: unblocking
